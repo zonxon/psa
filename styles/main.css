@@ -1,0 +1,31 @@
+/* 
+
+ids are denoted by '#'
+classes are denotedby '.'
+
+*/
+
+body {
+	background-color: #fffcde;
+	font-family: 'Roboto', sans-serif;
+}
+
+#main {
+	max-width: 1000px;
+	margin: auto;
+}
+
+.container {
+	padding: 24px;
+}
+
+#profile {
+	text-align: center;
+}
+
+#profile-pic {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
